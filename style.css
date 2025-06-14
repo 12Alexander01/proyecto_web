@@ -1,0 +1,23 @@
+/*Centrar texto y separación de espacio*/
+header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+/*Cambiar color y tamaño de letra del encabezado principal*/
+header h1 {
+  font-size: 3em;
+  color: #141413;
+  margin: 0;
+}
+
+header p {
+  font-size: 1.2em;
+  margin-top: 10px;
+}
+
+section h2 {
+  color: #141413;
+  margin-bottom: 10px;
+}
+
